@@ -1,3 +1,5 @@
+Votre message a bien été envoyé ! Vous pouvez retourner à la page précédente en cliquant <a href"<?php echo $_SERVER['HTTP_REFERER'] ?>">ici.</a>
+
 <?php
 	include("connect.php");
 
