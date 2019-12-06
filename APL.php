@@ -119,18 +119,19 @@ Au moment de la demande, l’étudiant a la possibilité d’indiquer s’il log
 
   <input type="hidden" name="context" value="APL" />
  
-    <label for="email">email</label>
+    <label for="email">Mail</label>
     <input type="text" id="email" name="email" placeholder="mail">
  
     <input type="text" id="pseudo" name="pseudo" placeholder="pseudo">
  
-  <label for="subject">Message</label>
-  <input type="text" id="subject" name="subject" placeholder="pseudo">  
+  <label for="subject">Sujet</label>
+  <input type="text" id="subject" name="subject" placeholder="subject">  
 
     <label for="msg">Message</label>
     <textarea id="msg" name="msg" placeholder="" style="height:200px"></textarea>
  
     <input type="submit" value="Valider">
+    
  
   </form>
 </div>
