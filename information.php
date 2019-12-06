@@ -13,7 +13,7 @@
 <body>
 <div id='cssmenu'>
 <ul>
-   <li><a href='index.html'>Accueil </a></li>
+   <li><a href='index.php'>Accueil </a></li>
    <li class='active'><a href='information.html'>Information</a>
       <ul>
       
