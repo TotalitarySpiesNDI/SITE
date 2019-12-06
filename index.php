@@ -147,7 +147,7 @@ color: #f4f4f4;
             <div class="content">
               <div class="intro">
               <h5>Bienvenue sur notre site d'aide aux étudiants</h5>
-              <a class="btn1" href="information.html"> Informations</a>
+              <a class="btn1" href="information.php"> Informations</a>
               </div>
             </div>
         </section>
