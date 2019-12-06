@@ -13,7 +13,7 @@
 <body>
 <div id='cssmenu'>
 <ul>
-   <li><a href='index.php'>Accueil </a></li>
+   <li><a href='index.php'>Accueil</a></li>
    <li class='active'><a href='information.php'>Information</a>
       <ul>
       
@@ -22,24 +22,24 @@
    </li>
 
 
-<li class='active'><a href=''>Aides Etudiants</a>
+<li class='active'><a>Aides Etudiants</a>
       <ul>
        
          </li>
          <li><a>Aides financières</a>
             <ul>
-               <li><a href='erasmus.html'>Bourse ERASMUS</a></li>
-               <li><a href='crous.html'>Bourse CROUS</a></li>
-               <li><a href='ARS.html'>Allocation de rentré Scolaire </a></li>
-               <li><a href='APL.html'>APL </a></li>
+               <li><a href='erasmus.php'>Bourse ERASMUS</a></li>
+               <li><a href='crous.php'>Bourse CROUS</a></li>
+               <li><a href='ARS.php'>Allocation de rentré Scolaire </a></li>
+               <li><a href='APL.php'>APL </a></li>
               
             </ul>
          </li>
           <li><a>Associations étudiants</a>
             <ul>
-               <li><a href='unef.html'>Unef</a></li>
-               <li><a href='FAG.html'>FAG</a></li>
-              
+               <li><a href='unef.php'>Unef</a></li>
+               <li><a href='FAG.php'>FAG</a></li>
+             
               
             </ul>
          </li>
