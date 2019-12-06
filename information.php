@@ -1,3 +1,7 @@
+﻿<?php $context = "information";
+ include("liste_msg.php") ?>
+
+
 <html>
 
 	<title>Aide étudiant</title>
@@ -89,7 +93,7 @@
   </section>
    <form action="submitcomment.php" method="post">
 
-  <input type="hidden" name="context" value="nom_page" />
+  <input type="hidden" name="context" value="information.php" />
  
     <label for="email">email</label>
     <input type="text" id="email" name="email" placeholder="mail">
