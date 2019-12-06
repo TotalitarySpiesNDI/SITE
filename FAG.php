@@ -113,15 +113,15 @@ Ces souffrances ainsi que ces comportements régressifs et pleins d'amalgames so
   </section>
   <form action="submitcomment.php" method="post">
 
-  <input type="hidden" name="context" value="nom_page" />
+  <input type="hidden" name="context" value="FAG" />
  
-    <label for="email">email</label>
+    <label for="email">Mail</label>
     <input type="text" id="email" name="email" placeholder="mail">
  
     <input type="text" id="pseudo" name="pseudo" placeholder="pseudo">
  
-  <label for="subject">Message</label>
-  <input type="text" id="subject" name="subject" placeholder="pseudo">  
+  <label for="subject">Sujet</label>
+  <input type="text" id="subject" name="subject" placeholder="subject">  
 
     <label for="msg">Message</label>
     <textarea id="msg" name="msg" placeholder="" style="height:200px"></textarea>
