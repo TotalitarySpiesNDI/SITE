@@ -111,8 +111,7 @@ Les avantages financiers d'Erasmus sont doubles, non seulement l'étudiant ne pa
 <br><br>
  <form action="submitcomment.php" method="post">
 
-  <input type="hidden" name="context" value="erasmus" />
-  <label for="email">Mail</label>
+    <label for="email">Mail</label>
     <input type="text" id="email" name="email" placeholder="mail">
  
     <input type="text" id="pseudo" name="pseudo" placeholder="pseudo">
@@ -122,6 +121,9 @@ Les avantages financiers d'Erasmus sont doubles, non seulement l'étudiant ne pa
 
     <label for="msg">Message</label>
     <textarea id="msg" name="msg" placeholder="" style="height:200px"></textarea>
+ 
+    <input type="submit" value="Valider">
+ 
  
     <input type="submit" value="Valider">
  
